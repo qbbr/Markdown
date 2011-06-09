@@ -2,7 +2,7 @@
 /**
  * Autoloads Q_Markdown classes
  *
- * @package Q_Logger
+ * @package Q_Markdown
  * @author Sokolov Innokenty, <sokolov.innokenty@gmail.com>
  * @license http://opensource.org/licenses/MIT MIT License
  * @copyright Copyright (c) 2011, qbbr
@@ -10,7 +10,7 @@
 class Q_Markdown_Autoloader
 {
     /**
-     * Registers Q_Cache_Autoloader as an SPL autoloader
+     * Registers Q_Markdown_Autoloader as an SPL autoloader
      */
     static public function register()
     {
